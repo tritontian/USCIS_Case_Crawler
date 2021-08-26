@@ -1,0 +1,83 @@
+Case Number Starting From: MSC2190379500 to MSC2190382800
+
+Fingerprint Fee Was Received
+Number of Cases: 526
+Percentage of Total: 45.18900343642612%
+
+Case Was Updated To Show Fingerprints Were Taken
+Number of Cases: 318
+Percentage of Total: 27.31958762886598%
+
+Request for Initial Evidence Was Sent
+Number of Cases: 85
+Percentage of Total: 7.302405498281788%
+
+Case Was Denied
+Number of Cases: 1
+Percentage of Total: 0.0859106529209622%
+
+Case is Ready to Be Scheduled for An Interview
+Number of Cases: 55
+Percentage of Total: 4.725085910652921%
+
+Response To USCIS' Request For Evidence Was Received
+Number of Cases: 36
+Percentage of Total: 3.0927835051546393%
+
+Case Was Received
+Number of Cases: 37
+Percentage of Total: 3.178694158075601%
+
+Case Was Transferred And A New Office Has Jurisdiction
+Number of Cases: 8
+Percentage of Total: 0.6872852233676976%
+
+Interview Was Scheduled
+Number of Cases: 16
+Percentage of Total: 1.3745704467353952%
+
+Duplicate Notice Was Mailed
+Number of Cases: 9
+Percentage of Total: 0.7731958762886598%
+
+Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+Number of Cases: 9
+Percentage of Total: 0.7731958762886598%
+
+Date of Birth Was Updated
+Number of Cases: 1
+Percentage of Total: 0.0859106529209622%
+
+Name Was Updated
+Number of Cases: 3
+Percentage of Total: 0.25773195876288657%
+
+Case Was Rejected Because It Was Improperly Filed
+Number of Cases: 30
+Percentage of Total: 2.5773195876288657%
+
+Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+Number of Cases: 1
+Percentage of Total: 0.0859106529209622%
+
+Case Rejected Because I Sent An Incorrect Fee
+Number of Cases: 18
+Percentage of Total: 1.5463917525773196%
+
+Request for Additional Evidence Was Sent
+Number of Cases: 1
+Percentage of Total: 0.0859106529209622%
+
+Fees Were Waived
+Number of Cases: 6
+Percentage of Total: 0.5154639175257731%
+
+Petition/Application Was Rejected For Insufficient Funds
+Number of Cases: 2
+Percentage of Total: 0.1718213058419244%
+
+Card Was Mailed To Me
+Number of Cases: 2
+Percentage of Total: 0.1718213058419244%
+
+Total of 1164 I-485 cases crawled
